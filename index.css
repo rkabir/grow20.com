@@ -1,15 +1,20 @@
 body {
-  background:#FFF;
-  color:#090;
+  background:#000;
+  background-image:url('DSC_0074.jpg');
+  color:#FFF;
   font-family:helvetica;
   font-size:24px;
   padding:50px;
 }
 
+#content {
+  width: 500px;
+}
+
 h3 {
-  color: #090;
+  color: #0c0;
 }
 
 a {
-  color: #090;
+  color: #0f0;
 }
